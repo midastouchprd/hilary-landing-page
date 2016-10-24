@@ -20,10 +20,11 @@ nav {
 }
 
 #menu-items a {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Unica One', cursive;
 }
 
 .section {
   font-family: 'Unica One', cursive;
   background-color: #C2B088;
+  box-shadow: 2px 2px 7px black;
 }
